@@ -651,8 +651,12 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #FFFFFF!important;
+    color: #575757;
     
+}
+
+.row a {
+    color: #FFFFFF;
 }
 
 .container {
