@@ -657,6 +657,7 @@ a {
 
 .row a {
     color: #FFFFFF;
+    text-decoration: underline;
 }
 
 .container {
