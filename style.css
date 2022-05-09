@@ -655,9 +655,13 @@ a {
     
 }
 
-.row a {
+.col-sm-4 a {
     color: #FFFFFF;
     text-decoration: underline;
+}
+
+.col-sm-4 li { 
+    margin: 8px;
 }
 
 .container {
