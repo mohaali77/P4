@@ -363,6 +363,11 @@ a:hover {
     z-index: 2;
 }
 
+.center-block {
+    width: 100px;
+    height: 100px;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -784,6 +789,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    height: 100%;
+    width: 100%;
 }
 
 .portfolio-row {
