@@ -658,10 +658,12 @@ a {
 .col-sm-4 a {
     color: #FFFFFF;
     text-decoration: underline;
+    padding-top: 16px;
+    padding-bottom: 16px;
 }
 
 .col-sm-4 li { 
-    margin: 8px;
+    margin: 28px;
 }
 
 .container {
