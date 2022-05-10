@@ -717,6 +717,34 @@ p {
     margin-bottom: 50px;
 }
 
+.text-center1 p {
+    font-size: 22px;
+    text-align: center;
+    line-height: 22px;
+    color: #575757;
+    margin: 0px;
+}
+
+.text-center2 p {
+    font-size: 20px;
+    text-align: center;
+    line-height: 22px;
+    font-style: italic;
+    color: #575757;
+    margin: 0px;
+}
+
+.text-center2 span {
+    font-style: normal;
+    color: grey;
+}
+
+.text-center3 p {
+    font-size: 22px;
+    color: #575757;
+    text-align: center;
+    margin: 0px;
+}
 
 
 h2 {
